@@ -1,11 +1,11 @@
 # CalcuPython
 
-![](https://photos.app.goo.gl/wkAPNbzdRL7vuzvL6https://s4.aconvert.com/convert/p3r68-cdx67/a6sqi-6w533.jpg)
 
 Calculadora básica pra testar meus conhecimentos sobre python
 
 Olá!
 
+![](https://photos.app.goo.gl/wkAPNbzdRL7vuzvL6https://s4.aconvert.com/convert/p3r68-cdx67/a6sqi-6w533.jpg)
 
 Pra melhor experiência, rode a script no seu terminal.
 
