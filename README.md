@@ -1,5 +1,6 @@
 # CalcuPython
 
+![foto](https://github.com/yScottLuck/CalcuPython/blob/main/Screenshot_2021-11-14-09-53-19-1-1.png)
 
 Calculadora básica pra testar meus conhecimentos sobre python
 
