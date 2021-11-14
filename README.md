@@ -1,4 +1,7 @@
 # CalcuPython
+
+![](https://photos.app.goo.gl/wkAPNbzdRL7vuzvL6)
+
 Calculadora básica pra testar meus conhecimentos sobre python
 
 Olá!
