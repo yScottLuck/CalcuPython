@@ -1,6 +1,6 @@
 # CalcuPython
 
-![foto](https://github.com/yScottLuck/CalcuPython/blob/main/Screenshhttps://github.com/yScottLuck/CalcuPython/blob/main/Screenshot_2021-11-15-16-00-43.png)
+![foto (https://github.com/yScottLuck/CalcuPython/blob/main/Screenshhttps://github.com/yScottLuck/CalcuPython/blob/main/Screenshot_2021-11-15-16-00-43.png)
 
 Calculadora básica pra testar meus conhecimentos sobre python
 
