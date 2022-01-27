@@ -22,7 +22,7 @@ $ pkg install git
 
 $ pkg install python
 
-$ git clone https://github.com/yScottLuc/CalcuPython
+$ git clone https://github.com/yScottLuck/CalcuPython
 
 $ cd CalcuPython
 
